@@ -6,7 +6,7 @@ const updatePersonShape = yup.object().shape({
   nickname: yup.string(),
   gender: yup.string(),
   phone: yup.string(),
-  adress: yup.string(),
+  address: yup.string(),
   comments: yup.string(),
   profile_picture: yup.string(),
 });

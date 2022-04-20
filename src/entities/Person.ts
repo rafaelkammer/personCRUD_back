@@ -33,7 +33,7 @@ export class Person {
   phone: string;
 
   @Column()
-  adress: string;
+  address: string;
 
   @Column()
   comments: string;

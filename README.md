@@ -47,7 +47,7 @@ You can access the following endpoints:
     "nickname": "Rafael",
     "gender": "Male",
     "phone": "(41)12345-6789",
-    "adress": "Rua Curitiba, 123, Curitiba - Paraná",
+    "address": "Rua Curitiba, 123, Curitiba - Paraná",
     "comments": "comentários extras",
     "profile_picture": "https://picsum.photos/400/300"
   }
@@ -63,7 +63,7 @@ You can access the following endpoints:
   "nickname": "Rafael",
   "gender": "Male",
   "phone": "(41)12345-6789",
-  "adress": "Rua Curitiba, 123, Curitiba - Paraná",
+  "address": "Rua Curitiba, 123, Curitiba - Paraná",
   "comments": "comentários extras",
   "profile_picture": "https://picsum.photos/400/300"
 }
@@ -78,7 +78,7 @@ You can access the following endpoints:
   "nickname": "Rafael",
   "gender": "Male",
   "phone": "(41)12345-6789",
-  "adress": "Rua Curitiba, 123, Curitiba - Paraná",
+  "address": "Rua Curitiba, 123, Curitiba - Paraná",
   "comments": "comentários extras",
   "profile_picture": "https://picsum.photos/400/300",
   "id": "82b748e8-87c7-48cb-895b-15397a7685f9",
@@ -98,7 +98,7 @@ PUT - /persons/82b748e8-87c7-48cb-895b-15397a7685f9
 	"nickname": "Rafa",
 	"gender": "Male",
 	"phone": "(41)12345-6789",
-	"adress": "Rua Curitiba, 123, Curitiba - Paraná",
+	"address": "Rua Curitiba, 123, Curitiba - Paraná",
 	"comments": "comentários extras",
 	"profile_picture": "https://picsum.photos/400/300"
 }

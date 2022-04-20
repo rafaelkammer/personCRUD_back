@@ -6,7 +6,7 @@ const createPersonShape = yup.object().shape({
   nickname: yup.string().required(),
   gender: yup.string().required(),
   phone: yup.string().required(),
-  adress: yup.string().required(),
+  address: yup.string().required(),
   comments: yup.string().required(),
   profile_picture: yup.string(),
 });

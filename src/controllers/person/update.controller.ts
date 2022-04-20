@@ -10,7 +10,7 @@ const updatePersonController = async (req: Request, res: Response) => {
       nickname,
       gender,
       phone,
-      adress,
+      address,
       comments,
       profile_picture,
     } = req.body;
@@ -20,7 +20,7 @@ const updatePersonController = async (req: Request, res: Response) => {
       nickname,
       gender,
       phone,
-      adress,
+      address,
       comments,
       profile_picture,
     };
