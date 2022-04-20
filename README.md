@@ -1,5 +1,3 @@
-# REST API Miniapp
-
 ## Getting started
 
 ### 1. Install dependencies
